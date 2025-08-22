@@ -13,6 +13,7 @@ A Visual Studio Code extension that provides a PyCharm-like Django project struc
 - **URL Patterns**: Explore URL patterns and their associated views
 - **Settings Explorer**: Browse through your Django settings
 - **Property Method Support**: Identifies and displays @property methods in models
+- **Recursive Project Root Identification**: Identifies the Django project root, even if contained in subdirectories of the Workspace Folder
 
 ## Why Use Django Structure Explorer?
 
